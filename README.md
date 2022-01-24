@@ -1,2 +1,2 @@
 # test1
-This is a discription.
+This is a test repository.
